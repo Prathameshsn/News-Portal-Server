@@ -1,0 +1,5 @@
+#ingore node module folder
+node_modules
+
+# ingore package file
+package-lock.json

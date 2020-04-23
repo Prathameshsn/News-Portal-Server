@@ -1,0 +1,12 @@
+{
+    "result" : [
+        {
+            "title": "News",
+            "link": "/news"
+        }, 
+        {
+            "title": "Customs Adds",
+            "link" : "/custom-adds"
+        }
+    ]
+}
